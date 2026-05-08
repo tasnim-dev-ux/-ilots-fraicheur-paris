@@ -1,0 +1,22 @@
+# Collecte et manipulation des données
+requests>=2.28.0
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualisation statique
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Cartes interactives
+folium>=0.14.0
+
+# Statistiques et Machine Learning
+scipy>=1.9.0
+scikit-learn>=1.1.0
+
+# Interface interactive
+streamlit>=1.25.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0
